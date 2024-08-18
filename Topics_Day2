@@ -1,0 +1,19 @@
+1. String Class in Java
+
+Constructor:
+
+* Constructor is used to initialize the variables 
+* Constructor name is similar to class name
+* Constructor does not have any return type
+* Constructor is not a method
+* When we will create an object for the class default constructor will be called.
+* Constructor can be parameterized
+
+Parameterized Method
+
+Constructor Overloading
+
+StringBuffer Class
+
+Pass parameter in method
+
